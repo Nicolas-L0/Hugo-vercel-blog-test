@@ -1,0 +1,2 @@
+* Hugo-vercel-blog-test
+This is a test repo for hugo-vercel blog

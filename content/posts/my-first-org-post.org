@@ -1,0 +1,18 @@
+---
+title: "My First Org Post"
+date: 2023-04-02T11:17:38+08:00
+draft: true
+---
+* 1st title
+** 2nd title
+*** 3rd title
+**** 4th title
+***** 5th title
+A .org file edited by emacs _=org-mode=_
+
+This is a *bold text*, and this is /emphasized text/.\\
+Visit [[http://gohugo.io][Hugo]] site to find more about Hugo!\\
+/\\强制换行有效！
+
+Let's have a try with =org-roam= link like this [[id:46296a36-74db-4899-ad52-773c975c13b2][DAILY]].
+It does not work

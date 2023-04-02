@@ -1,0 +1,4 @@
+baseURL = 'http://baidu.com/'
+languageCode = 'zh-cn'
+title = 'My New Hugo Site 测试页面1-1'
+theme = 'ananke'
